@@ -1,0 +1,3 @@
+A cumulation of all websites I found while learning Full Stack
+
+1. https://www.nslookup.io/  -> This website is used to find the Ip assress of any website
