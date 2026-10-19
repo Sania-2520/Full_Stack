@@ -1,0 +1,13 @@
+HTML -> HyperText Markup Language
+
+Writing tags inside tags is known as Nesting
+
+HTML Elements
+The components used to design the structure of websites are called HTML tags.
+EX ->  <p></p> and <h1></h1> and <img> and <b></b> and <ul></ul>
+
+1. Paragraph Elements
+ <p></p>
+
+2. The <h1></h1> to <h6></h6> HTML elemnents represent six levels of section headings.
+<h1></h1> is the highest section level and <h6></h6> is the lowest
